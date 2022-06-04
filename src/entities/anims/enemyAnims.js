@@ -1,4 +1,4 @@
-// Enemy animations 7
+// Enemy animations 10
 export default (anims) => {
   anims.create({
     key: "birdman-idle",
