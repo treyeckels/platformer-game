@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 // Enemy animations 5
-=======
-// Enemy animations 1
->>>>>>> master
 export default (anims) => {
   anims.create({
     key: "birdman-idle",
